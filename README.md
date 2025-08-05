@@ -1,6 +1,6 @@
-# MeshLLM
+# MeshCoder
 
-Official implementation of the paper "MeshLLM: LLM-Powered Structured Mesh Code Generation from Point Clouds".
+Official implementation of the paper "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds".
 
 Project page is here.
 
