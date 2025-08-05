@@ -4,6 +4,6 @@ Official implementation of the paper "MeshCoder: LLM-Powered Structured Mesh Cod
 
 Project page is here.
 
-Code will be released soon.
+We plan to release the code by November 2025. Stay tuned!
 
 ![teaser](figures/teaser.jpg)
