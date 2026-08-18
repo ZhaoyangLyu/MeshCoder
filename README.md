@@ -13,7 +13,7 @@
 Project lead: Zhaoyang Lyu
 
 # News
-**[2026.08.11]** Our follow-up work, **MegaParts (MeshCoder 1.5)**, extends MeshCoder to scalable part-aware 3D object generation by combining a token-efficient, adaptive-length vector-quantized shape representation with long-context autoregressive modeling. It generates structured 3D objects as coherent assemblies of up to 300 parts and supports sequences of up to 256K tokens, while preserving high-fidelity geometry and fine-grained part-level control. The code will be released in this repository. [[Project Page](https://expmaster.github.io/megaparts_webpage/)] [[Paper](MEGAPARTS_PAPER_URL)]
+**[2026.08.11]** Our follow-up work, **MegaParts (MeshCoder 1.5)**, extends MeshCoder to scalable part-aware 3D object generation by combining a token-efficient, adaptive-length vector-quantized shape representation with long-context autoregressive modeling. It generates structured 3D objects as coherent assemblies of up to 300 parts and supports sequences of up to 256K tokens, while preserving high-fidelity geometry and fine-grained part-level control. The code will be released in this repository. [[Project Page](https://expmaster.github.io/megaparts_webpage/)] [[Paper](https://huggingface.co/papers/2608.14783)]
 
 <p align="center">
 <img src="figures/megaparts/teaser.jpg" alt="MegaParts teaser" width="100%" height="auto" class="center">
